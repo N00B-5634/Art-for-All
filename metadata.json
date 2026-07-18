@@ -1,0 +1,6 @@
+{
+  "name": "Art For All",
+  "description": "A secure, cozy, and organic digital art gallery protecting artist creations from scraping, screenshots, and downloads, while supporting Tor and JavaScript-free users with unified aesthetic experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+{
+  "artworks": [],
+  "profiles": [],
+  "config": {
+    "keycloakAuthUrl": "sso.ftc25671.com",
+    "keycloakRealm": "afa",
+    "keycloakClientId": "afa",
+    "hostUrl": "https://ais-dev-sn6sxh4lnoykyp5ktlv5fy-835535307163.us-east1.run.app",
+    "onionAddress": "afaart4all4torv3kdy2zmlhwsjdfgpwbyf34scu5e7dskrnyy.onion",
+    "allowPublicIndexing": false,
+    "maxUploadSizeBytes": 5242880,
+    "antiOcrScramblingIntensity": "medium"
+  },
+  "maxStorageLimitBytes": 56320
+}

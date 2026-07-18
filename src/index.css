@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Lora", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Polished Premium Palette: Red, Blue, Yellow, Orange, and Purple */
+  --color-brand-primary: #1e3a8a;          /* Rich Deep Blue */
+  --color-brand-primary-light: #7c3aed;    /* Amethyst Purple */
+  --color-brand-accent: #f97316;           /* Tangerine Orange */
+  --color-brand-accent-yellow: #eab308;    /* Marigold Yellow */
+  --color-brand-accent-red: #dc2626;       /* Crimson Red */
+  --color-brand-bg: #f8fafc;               /* Clean Light Slate BG */
+  --color-brand-panel: #ffffff;            /* Pure White card panels */
+  --color-brand-muted: #475569;            /* Cool Slate Grey text */
+}
+
+/* Base style resets */
+body {
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-muted);
+}
